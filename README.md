@@ -53,7 +53,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Vinayak Majhi" />
                     <br />
                     <sub>
-                        <b>Anurag Kumar</b>
+                        <b>Vinayajk Majhi</b>
                 </a>
              </td>
          <td align="center">      
